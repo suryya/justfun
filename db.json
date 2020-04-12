@@ -6,7 +6,7 @@
       "name": "john dow",
       "age": 18,
       "addresses": [
-          {"id":1, "location":'Kolkata"},
+          {"id":1, "location":"Kolkata"},
           {"id":2, "location":"Delhi"},
           {"id":3, "location":"Bombay"},
           {"id":4, "location":"Hydrabad"}
